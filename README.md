@@ -89,8 +89,7 @@ Machine Learning & Deep Learning
     align="left"
   />
 
-  Always happy to connect with people building interesting things in AI and software.<br>
-  Check out my projects, and feel free to reach out.
+  Want to connect or collaborate? → <a href="https://yashlalwani.info">Portfolio</a> • <a href="https://www.linkedin.com/in/yashlalwani10">LinkedIn</a> • <a href="mailto:yashlalwani.dev@gmail.com">Contact Me</a>
 
   <a href="https://notbyai.fyi/#not-by-ai-mission">
     <img
@@ -104,15 +103,3 @@ Machine Learning & Deep Learning
 </p>
 
 <br clear="both" />
-
-<p align="center">
-  <a href="https://yashlalwani.info">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge">
-  </a>
-  <a href="https://www.linkedin.com/in/yashlalwani10">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:yashlalwani.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
