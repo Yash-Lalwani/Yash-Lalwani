@@ -16,10 +16,14 @@ $ whoami
 
 ---
 
-🎓 Senior pursuing a **B.S. in Computer Science** with a **Data Science minor** at Rutgers University
-🤖 **AI/ML Research Assistant & Automation Engineer** at Rutgers University
-🧬 **AI Extern** at Pfizer
-⚙️ Interested in **AI Engineering, Software Engineering, Multi-Agent Systems, and Production AI Agents**
+## 👨‍💻 About Me
+
+<img src="./Assets/git-home.gif" width="250px" align="right" alt="GitHub animation">
+
+🎓 Senior pursuing a **B.S. in Computer Science** with a **Data Science minor** at Rutgers University  
+🤖 **AI/ML Research Assistant & Automation Engineer** at Rutgers University  
+🧬 **AI Extern** at Pfizer  
+⚙️ Interested in **AI Engineering, Software Engineering, Multi-Agent Systems, and Production AI Agents**  
 🌐 Explore my work at [**yashlalwani.info**](https://yashlalwani.info)
 
 **🛠 Tech Stack**
@@ -50,13 +54,15 @@ $ whoami
 <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat">
 
+<br clear="right"/>
+
 ---
 
 ## 🚀 Featured Projects
 
-- **🧠 Layer** — Context-aware AI workspace powered by RAG and connected knowledge sources.
-- **🧬 Astra** — Production-grade multi-agent clinical trial intelligence engine.
-- **✈️ Plane** — Production-style software platform with a modern backend architecture.
+- **🧠 Layer** — Building a context-aware AI workspace powered by RAG and connected knowledge sources.
+- **🧬 Astra** — Building a **production-grade multi-agent clinical trial intelligence engine**.
+- **✈️ Plane** — Building a production-style software platform with a modern backend architecture.
 
 ---
 
@@ -75,16 +81,38 @@ Machine Learning & Deep Learning
 
 ## 📫 Let's Connect
 
-Always happy to connect with people building interesting things in AI and software. Check out my projects, and feel free to reach out.
+<p align="center">
+
+  <img
+    alt="email"
+    src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/naren/mailput.gif"
+    align="left"
+  />
+
+  Always happy to connect with people building interesting things in AI and software.<br>
+  Check out my projects, and feel free to reach out.
+
+  <a href="https://notbyai.fyi/#not-by-ai-mission">
+    <img
+      width="131"
+      alt="Written-By-Human-Not-By-AI-Badge"
+      src="https://github.com/user-attachments/assets/847dd474-1d1d-462a-a115-d162e544f714"
+      align="right"
+    />
+  </a>
+
+</p>
+
+<br clear="both" />
 
 <p align="center">
   <a href="https://yashlalwani.info">
-    <img src="https://img.shields.io/badge/Portfolio-yashlalwani.info-black?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge">
   </a>
   <a href="https://www.linkedin.com/in/yashlalwani10">
-    <img src="https://img.shields.io/badge/LinkedIn-Yash%20Lalwani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:yashlalwani.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
