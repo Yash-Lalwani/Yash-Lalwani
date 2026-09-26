@@ -26,25 +26,19 @@ $ whoami
 ⚙️ Interested in **AI Engineering, Software Engineering, Multi-Agent Systems, and Production AI Agents**  
 🌐 Explore my work at [**yashlalwani.info**](https://yashlalwani.info)
 
-**🛠 Tech Stack**
-
-**Languages:**&nbsp;
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
+**🛠 Tech Stack**<br><br>
+Languages: <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat">
-
-**AI / ML:**&nbsp;
-<img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat"><br>
+AI / ML: <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Deep%20Learning-102230?style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-RAG-102230?style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=flat">
-
-**Frameworks / Tools:**&nbsp;
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=flat"><br>
+Frameworks / Tools: <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat">&nbsp;
@@ -82,24 +76,13 @@ Machine Learning & Deep Learning
 ## 📫 Let's Connect
 
 <p align="center">
-
-  <img
-    alt="email"
-    src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/naren/mailput.gif"
-    align="left"
-  />
-
-  Want to connect or collaborate? → <a href="https://yashlalwani.info">Portfolio</a> • <a href="https://www.linkedin.com/in/yashlalwani10">LinkedIn</a> • <a href="mailto:yashlalwani.dev@gmail.com">Contact Me</a>
-
-  <a href="https://notbyai.fyi/#not-by-ai-mission">
-    <img
-      width="131"
-      alt="Written-By-Human-Not-By-AI-Badge"
-      src="https://github.com/user-attachments/assets/847dd474-1d1d-462a-a115-d162e544f714"
-      align="right"
-    />
+  <a href="mailto:yashlalwani.dev@gmail.com">
+    <img alt="email" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/naren/mailput.gif" align="left" />
   </a>
-
+  <a href="https://notbyai.fyi/#not-by-ai-mission">
+    <img width="131" alt="Written-By-Human-Not-By-AI-Badge" src="https://github.com/user-attachments/assets/847dd474-1d1d-462a-a115-d162e544f714" align="right" />
+  </a>
+  Always happy to connect with people building interesting things in AI and software.<br>
+  Check out my projects, and feel free to reach out.
 </p>
-
 <br clear="both" />
