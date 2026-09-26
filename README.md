@@ -16,21 +16,13 @@ $ whoami
 
 ---
 
-## 👨‍💻 About Me
-
-<img src="./Assets/git-home.gif" width="250px" align="right" alt="GitHub animation">
-
-🎓 Senior pursuing a **B.S. in Computer Science** with a **Data Science minor** at Rutgers University  
-🤖 **AI/ML Research Assistant & Automation Engineer** at Rutgers University  
-🧬 **AI Extern** at Pfizer  
-⚙️ Interested in **AI Engineering, Software Engineering, Multi-Agent Systems, and Production AI Agents**  
+🎓 Senior pursuing a **B.S. in Computer Science** with a **Data Science minor** at Rutgers University
+🤖 **AI/ML Research Assistant & Automation Engineer** at Rutgers University
+🧬 **AI Extern** at Pfizer
+⚙️ Interested in **AI Engineering, Software Engineering, Multi-Agent Systems, and Production AI Agents**
 🌐 Explore my work at [**yashlalwani.info**](https://yashlalwani.info)
 
-<br clear="right"/>
-
----
-
-## 🛠 Tech Stack
+**🛠 Tech Stack**
 
 **Languages:**&nbsp;
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
@@ -62,14 +54,9 @@ $ whoami
 
 ## 🚀 Featured Projects
 
-### 🧠 Layer
-Building a context-aware AI workspace powered by RAG and connected knowledge sources.
-
-### 🧬 Astra
-Building a **production-grade multi-agent clinical trial intelligence engine**.
-
-### ✈️ Plane
-Building a production-style software platform with a modern backend architecture.
+- **🧠 Layer** — Context-aware AI workspace powered by RAG and connected knowledge sources.
+- **🧬 Astra** — Production-grade multi-agent clinical trial intelligence engine.
+- **✈️ Plane** — Production-style software platform with a modern backend architecture.
 
 ---
 
@@ -88,29 +75,7 @@ Machine Learning & Deep Learning
 
 ## 📫 Let's Connect
 
-<p align="center">
-
-  <img
-    alt="email"
-    src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/naren/mailput.gif"
-    align="left"
-  />
-
-  Always happy to connect with people building interesting things in AI and software.<br>
-  Check out my projects, and feel free to reach out.
-
-  <a href="https://notbyai.fyi/#not-by-ai-mission">
-    <img
-      width="131"
-      alt="Written-By-Human-Not-By-AI-Badge"
-      src="https://github.com/user-attachments/assets/847dd474-1d1d-462a-a115-d162e544f714"
-      align="right"
-    />
-  </a>
-
-</p>
-
-<br clear="both" />
+Always happy to connect with people building interesting things in AI and software. Check out my projects, and feel free to reach out.
 
 <p align="center">
   <a href="https://yashlalwani.info">
