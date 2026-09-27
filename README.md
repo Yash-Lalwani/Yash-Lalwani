@@ -20,11 +20,11 @@ $ whoami
 
 <img src="./Assets/git-home.gif" width="250px" align="right" alt="GitHub animation">
 
-🎓 Senior pursuing a **B.S. in Computer Science** with a **Data Science minor** at Rutgers University  
-🤖 **AI/ML Research Assistant & Automation Engineer** at Rutgers University  
-🧬 **AI Extern** at Pfizer  
-⚙️ Interested in **AI Engineering, Software Engineering, Multi-Agent Systems, and Production AI Agents**  
-🌐 Explore my work at [**yashlalwani.info**](https://yashlalwani.info)
+- Senior pursuing a **B.S. in Computer Science** with a **Data Science minor** at Rutgers University  
+- **AI/ML Research Assistant & Automation Engineer** at Rutgers University  
+- **AI Extern** at Pfizer  
+- Interested in **AI Engineering, Software Engineering, Multi-Agent Systems, and Production AI Agents**  
+- Explore my work at [**yashlalwani.info**](https://yashlalwani.info)
 
 **🛠 Tech Stack**<br><br>
 Languages: <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
@@ -40,8 +40,6 @@ AI / ML: <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style
 <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=flat"><br>
 Frameworks / Tools: <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat">&nbsp;
@@ -54,20 +52,17 @@ Frameworks / Tools: <img src="https://img.shields.io/badge/-Node.js-339933?logo=
 
 ## 🚀 Featured Projects
 
-- **🧠 Layer** — Building a context-aware AI workspace powered by RAG and connected knowledge sources.
-- **🧬 Astra** — Building a **production-grade multi-agent clinical trial intelligence engine**.
-- **✈️ Plane** — Building a production-style software platform with a modern backend architecture.
+- **[Layer](https://layer.yashlalwani.info)** | Context-Aware AI Workspace Powered by RAG and Connected Knowledge Sources.
+- **[Astra](https://astra.yashlalwani.info)** | Production-Grade Multi-Agent Clinical Trial Intelligence System.
+- **[Plane](https://plane.yashlalwani.info)** | Production-Style Software Platform with a Modern Backend Architecture.
 
----
 
 ## `$ cat current_focus.txt`
 
 ```text
-AI Engineering
-Software Engineering & Development
-RAG & LLM Systems
 Multi-Agent AI Systems
 Production AI Systems
+RAG & LLM Systems
 Machine Learning & Deep Learning
 ```
 
@@ -83,6 +78,6 @@ Machine Learning & Deep Learning
     <img width="131" alt="Written-By-Human-Not-By-AI-Badge" src="https://github.com/user-attachments/assets/847dd474-1d1d-462a-a115-d162e544f714" align="right" />
   </a>
   Always happy to connect with people building interesting things in AI and software.<br>
-  Check out my projects, and feel free to reach out.
+  do check out my projects, and feel free to reach out 🚀.
 </p>
 <br clear="both" />
