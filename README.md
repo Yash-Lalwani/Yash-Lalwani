@@ -24,7 +24,7 @@
 - **AI Engineering** | **Software Engineering** | **Multi-Agent Systems** | **Production AI Agents**
 - Explore my work at [yashlalwani.info](https://yashlalwani.info/)
 
-**🛠 Tech Stack**<br><br>
+### 🛠 Tech Stack
 Languages: <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">&nbsp;
@@ -40,7 +40,6 @@ AI Engineering: <img src="https://img.shields.io/badge/-RAG-102230?style=flat">&
 Frameworks: <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat"><br>
@@ -60,9 +59,9 @@ Tools &amp; Cloud: <img src="https://img.shields.io/badge/-Docker-2496ED?logo=do
 
 ## 🚀 Featured Projects
 
-- **[Rag-Engine](https://rag.yashlalwani.info/mcp)** | Enterprise-Grade Advanced RAG System with Hybrid Search, Reranking, HyDE, CRAG, Self-RAG, Text2SQL, Caching, and Guardrails, Orchestrated with LangGraph
-- **[Astra](https://astra.yashlalwani.info/)** | Production-Grade Multi-Agent Clinical Trial Intelligence System with a Three-Layer Memory Architecture, LangSmith Tracing, and AI Guardrails
-- **[Plane](https://plane.yashlalwani.info/)** | Production-Style Software Platform with a Modern Backend Architecture, Role-Based Access Control (RBAC), and Secure Authentication
+- **[Rag-Engine](https://rag.yashlalwani.info/mcp)** | Enterprise-Grade Advanced RAG System with Hybrid Search, Reranking, HyDE, CRAG, Self-RAG, Text2SQL, Caching, and Guardrails, Orchestrated with LangGraph and Exposed as an MCP Server
+- **[Astra](https://astra.yashlalwani.info/)** | Production-Grade Multi-Agent Clinical Trial Intelligence System with Six Specialist Agents, a Three-Layer Memory Architecture, LangSmith Tracing, AI Guardrails, and Confidence-Gated Human Review
+- **[Plane](https://plane.yashlalwani.info/)** | Production-Style Software Platform with a Modern Backend Architecture, Role-Based Access Control (RBAC), Secure Authentication, Redis Caching, and BullMQ Background Workers
 
 
 ## `$ cat current_focus.txt`
