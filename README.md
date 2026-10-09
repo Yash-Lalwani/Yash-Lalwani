@@ -1,18 +1,16 @@
-```bash
-$ whoami
-```
-
-<h1 align="center">Hi, I'm <a href="https://yashlalwani.info">Yash Lalwani</a> 👋</h1>
+<div align="center">
+  <img src="./Assets/Yash_Lalwani_Banner.png" alt="Yash Lalwani - AI Engineer" width="100%" />
+</div>
 
 <p align="center">
-  <b>AI/ML Research Assistant | CS @ Rutgers University | AI Engineering • SWE</b>
+  <a href="https://yashlalwani.info"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-yashlalwani.info-D9663D?style=flat-square&labelColor=0B0D0F"></a>
+  <a href="https://www.linkedin.com/in/yashlalwani10"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-D9663D?style=flat-square&logo=linkedin&logoColor=EDE8DC&labelColor=0B0D0F"></a>
+  <a href="mailto:yashlalwani.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-D9663D?style=flat-square&logo=gmail&logoColor=EDE8DC&labelColor=0B0D0F"></a>
 </p>
 
-<p align="center">
-  <a href="https://yashlalwani.info">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/yashlalwani10">LinkedIn</a> •
-  <a href="mailto:yashlalwani.dev@gmail.com">Email</a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E8794E&center=true&vCenter=true&width=720&height=40&lines=AI-Engineer+%E2%80%A2+Full-Stack+%E2%80%A2+Cloud+%E2%80%A2+DevOps;Research+Assistant+%E2%80%93+AI+%26+Data+Automation+%40+Rutgers;Building+multi-agent+systems+and+production+AI+agents;Always+building%2C+always+learning" alt="What I do" />
+</div>
 
 ---
 
