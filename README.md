@@ -12,8 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E8794E&center=true&vCenter=true&width=720&height=40&lines=AI-Engineer+%E2%80%A2+Full-Stack+%E2%80%A2+Cloud+%E2%80%A2+DevOps;Research+Assistant+%E2%80%93+AI+%26+Data+Automation+%40+Rutgers;Building+multi-agent+systems+and+production+AI+agents;Always+building%2C+always+learning" alt="What I do" />
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 <img src="./Assets/git-home.gif" width="250px" align="right" alt="GitHub animation">
